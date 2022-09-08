@@ -27,5 +27,7 @@ I have used TMDB 5000 Movies Dataset from [Kaggle](https://www.kaggle.com/datase
 
 ### Predictions
 I have used two vectorization techniques in this project.
+
+
 ![](https://github.com/arshadali12/Movie-Recommender-System/blob/main/Screenshots/preds.PNG)
 
