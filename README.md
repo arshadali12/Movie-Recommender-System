@@ -17,7 +17,15 @@ There are multiple ways to implement collaborative filtering but the main concep
 
 
 
-## Screenshots
 
-![](https://drive.google.com/file/d/175C286fGDUeEA8ICNHqiJsoTdKvVVqLk/view?usp=sharing)
+![](https://github.com/arshadali12/Movie-Recommender-System/blob/main/Screenshots/recommender-types.PNG)
+
+**In this project I have made Content based Movie Recommender System**
+
+### Dataset Used
+I have used TMDB 5000 Movies Dataset from [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/code?select=tmdb_5000_movies.csv) 
+
+### Predictions
+I have used two vectorization techniques in this project.
+![](https://github.com/arshadali12/Movie-Recommender-System/blob/main/Screenshots/preds.PNG)
 
