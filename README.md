@@ -19,5 +19,5 @@ There are multiple ways to implement collaborative filtering but the main concep
 
 ## Screenshots
 
-![App Screenshot](https://github.com/arshadali12/Movie-Recommender-System/blob/main/Screenshots/recommender-types.PNG)
+![](https://drive.google.com/file/d/175C286fGDUeEA8ICNHqiJsoTdKvVVqLk/view?usp=sharing)
 
